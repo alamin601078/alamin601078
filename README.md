@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello, I'm MDd Al Amin Islam .  ! 👋
 
 ## About Me
-I'm a passionate [your profession/role, e.g., software developer, data scientist] with a love for [your interests, e.g., coding, AI, open-source projects]. I enjoy solving problems and building tools that make life easier.
+I'm a Passionate Woftware | Web developer, with a love for coding, AI , Machine learning , open-source projects. I enjoy solving problems and building tools that make life easier.
 
 - 🌍 Based in Thakurgaon Dhaka Bangladesh
 - 🌱 Currently learning full-stack web development
