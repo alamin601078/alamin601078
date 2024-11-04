@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # Hello, I'm MDd Al Amin Islam .  ! 👋
 
 ## About Me
-I'm a Passionate Woftware | Web developer, with a love for coding, AI , Machine learning , open-source projects. I enjoy solving problems and building tools that make life easier.
+I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine learning , open-source projects. I enjoy solving problems and building tools that make life easier.
 
 - 🌍 Based in Thakurgaon Dhaka Bangladesh
-- 🌱 Currently learning full-stack web development
-- 💼 I’m open to collaboration, job opportunities, etc.
+- 🌱 Currently Learning Full-stack Web Development
+- 💼 I’m open to Collaboration, Job Opportunities, etc.
 
 ## Skills
 - 🛠️ **Languages**:  C, C++ , JavaScript ,Typescript 
@@ -51,4 +51,10 @@ Here are a few projects I’m proud of:
 - [Twitter](your-twitter-handle)
 - [Personal Website](your-website-link)
 
-Feel free to reach out if you’d like to chat or collaborate on a project!
+
+### 📌 My Specializations
+
+- **Web Development**: Proficient in building responsive and dynamic web applications using React, Node.js, and Express. Passionate about creating user-friendly interfaces.
+- **Machine Learning**: Experienced in developing machine learning models using Python, TensorFlow, and scikit-learn. Focused on predictive analytics and data visualization.
+
+
