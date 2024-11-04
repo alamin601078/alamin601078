@@ -52,7 +52,7 @@ Here are a few projects I’m proud of:
 - [Personal Website](your-website-link)
 
 
-### 📌 My Specializations
+## 📌 My Specializations
 
 - **Web Development**: Proficient in building responsive and dynamic web applications using React, Node.js, and Express. Passionate about creating user-friendly interfaces.
 - **Machine Learning**: Experienced in developing machine learning models using Python, TensorFlow, and scikit-learn. Focused on predictive analytics and data visualization.
