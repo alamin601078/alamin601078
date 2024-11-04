@@ -19,20 +19,24 @@ Here are some ideas to get you started:
 ## About Me
 I'm a passionate [your profession/role, e.g., software developer, data scientist] with a love for [your interests, e.g., coding, AI, open-source projects]. I enjoy solving problems and building tools that make life easier.
 
-- 🌍 Based in [Your Location]
-- 🌱 Currently learning [what you're currently learning]
-- 💼 I’m open to [collaboration, job opportunities, etc.]
+- 🌍 Based in Thakurgaon Dhaka Bangladesh
+- 🌱 Currently learning full-stack web development
+- 💼 I’m open to collaboration, job opportunities, etc.
 
 ## Skills
-- 🛠️ **Languages**: [e.g., Python, JavaScript, Ruby]
-- 🔧 **Frameworks**: [e.g., React, Django, Flask]
-- ☁️ **Tools**: [e.g., Git, Docker, AWS]
-- 🎨 **Design**: [if applicable, e.g., UX/UI design]
+- 🛠️ **Languages**:  C, C++ , JavaScript ,Typescript 
+- 🔧 **Frameworks**:  React, MongoDB, Node.js , Express
+- ☁️ **Tools**:  Git, Docker,GitHub ,Visual Studio Code
+- 🎨 **Design**:  Auto CAD , UX/UI design, Canva ,Figma
 
 ## Interests
-- 🎮 Gaming
+- 💻 Web Development
+- 💻 Programming
+- 🤖 Artificial Intelligence
+- 🧑‍💻 Coding
 - 📚 Reading
 - 🎨 Art and Design
+- 🛠️ tools
 - 🌱 Sustainability
 
 ## Projects
