@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt text](images/svg/Blue%20Futuristic%20Artificial%20Intelligence%20Instagram%20Post%20(1).svg)
+
 # Hello, I'm MDd Al Amin Islam .  ! 👋
 
 ## About Me
