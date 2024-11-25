@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](images/svg/Blue%20Futuristic%20Artificial%20Intelligence%20Instagram%20Post%20(1).svg)
+<img src="images/svg/Blue%20Post.svg" alt="Blue Post" height="500">
 
 # Hello, I'm MDd Al Amin Islam .  ! 👋
 
