@@ -42,12 +42,7 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 - 🛠️ tools
 - 🌱 Sustainability
 
-## Projects
-Here are a few projects I’m proud of:
 
-- [**Project Name**](link-to-your-project): A brief description of what it does and why it’s cool.
-- [**Project Name**](link-to-your-project): A brief description of what it does and why it’s cool.
-- [**Project Name**](link-to-your-project): A brief description of what it does and why it’s cool.
 
 ## Connect with Me
 - [LinkedIn](your-linkedin-profile)
