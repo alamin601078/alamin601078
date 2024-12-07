@@ -57,6 +57,6 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 ## 📌 My Specializations
 
 - **Web Development**: Proficient in building responsive and dynamic web applications using React, Node.js, and Express. Passionate about creating user-friendly interfaces.
-- **Machine Learning**: Experienced in developing machine learning models using Python, TensorFlow, and scikit-learn. Focused on predictive analytics and data visualization.
+
 
 
