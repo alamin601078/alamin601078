@@ -45,10 +45,12 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 
 
 ## Connect with Me
+# My Website
 - https://alamin-pink.vercel.app/
-- [Personal Website]
-- [LinkedIn]([your-linkedin-profile](https://alamin-pink.vercel.app/))
-- [Twitter]((https://www.instagram.com/ai3989398?igsh=YzljYTk1ODg3Zg==))
+# Twitter / X
+-https://x.com/Al_AminPro?t=_v3wAOUkLSIsqLy4DQYpjg&s=09
+# Instragram
+-https://www.instagram.com/ai3989398?igsh=YzljYTk1ODg3Zg==
 
 
 
