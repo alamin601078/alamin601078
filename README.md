@@ -45,9 +45,9 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 
 
 ## Connect with Me
-- [Personal Website]([your-website-link](https://alamin-pink.vercel.app/))
+- [Personal Website]((https://alamin-pink.vercel.app/))
 - [LinkedIn](your-linkedin-profile)
-- [Twitter]([your-twitter-handle](https://www.instagram.com/ai3989398?igsh=YzljYTk1ODg3Zg==))
+- [Twitter]((https://www.instagram.com/ai3989398?igsh=YzljYTk1ODg3Zg==))
 
 
 
