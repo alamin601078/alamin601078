@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="images/svg/Blue%20Post.svg" alt="Blue Post" height="500">
 
-# Hello, I'm MDd Al Amin Islam .  ! 👋
+# MD Al Amin Islam
 
 ## About Me
 I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine learning , open-source projects. I enjoy solving problems and building tools that make life easier.
@@ -27,10 +27,14 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 - 💼 I’m open to Collaboration, Job Opportunities, etc.
 
 ## Skills
-- 🛠️ **Languages**:  C, C++ , JavaScript ,Typescript 
+
+- 🛠️ **Languages**:  C, C++ , JavaScript ,Typescript
 - 🔧 **Frameworks**:  React, MongoDB, Node.js , Express
-- ☁️ **Tools**:  Git, Docker,GitHub ,Visual Studio Code
+- ☁️ **Tools**:  Git, Docker,GitHub ,Visual Studio Code ,Postman 
 - 🎨 **Design**:  Auto CAD , UX/UI design, Canva ,Figma
+
+
+
 
 ## Interests
 - 💻 Web Development
@@ -45,7 +49,7 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 
 
 ## Connect with Me
-### My Website
+### My Portfolio 
 - https://alamin-pink.vercel.app/
 ### Twitter / X
 - https://x.com/Al_AminPro?t=_v3wAOUkLSIsqLy4DQYpjg&s=09
@@ -59,4 +63,6 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 - **Web Development**: Proficient in building responsive and dynamic web applications using React, Node.js, and Express. Passionate about creating user-friendly interfaces.
 
 
+### 📊 Stats
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin601078&show_icons=true&theme=gruvbox)
