@@ -50,7 +50,7 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 
 ## Connect with Me
 ### My Portfolio 
-- https://alamin-pink.vercel.app/
+- https://portfolio-alamin601078s-projects.vercel.app/
 ### Twitter / X
 - https://x.com/Al_AminPro?t=_v3wAOUkLSIsqLy4DQYpjg&s=09
 ### Instragram
