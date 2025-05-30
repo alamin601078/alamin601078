@@ -46,6 +46,19 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 - 🛠️ tools
 - 🌱 Sustainability
 
+## 📈 Current Stats
+
+<br />
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=alamin601078&theme=monokai" />
+</p>
+
+
+<div align="center">
+    <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin601078&theme=darcula" alt="Profile Details"></p>
+    </br>
+    <p style="display: flex; justify-content: space-between; gap: 10px;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin601078&theme=darcula" alt="Stats"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamin601078&theme=darcula&utcOffset=8" alt="Productive Time"></p>
+</div>
 
 
 ## Connect with Me
