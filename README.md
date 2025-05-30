@@ -58,8 +58,10 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
     <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin601078&theme=darcula" alt="Profile Details"></p>
     </br>
     <p style="display: flex; justify-content: space-between; gap: 10px;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin601078&theme=darcula" alt="Stats"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamin601078&theme=darcula&utcOffset=8" alt="Productive Time"></p>
+  
 </div>
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin601078&show_icons=true&theme=gruvbox)
 
 ## Connect with Me
 ### My Portfolio 
@@ -78,6 +80,3 @@ I'm a Passionate Woftware | Web Developer, with a love for coding, AI , Machine 
 - **Web Development**: Proficient in building responsive and dynamic web applications using React, Node.js, and Express. Passionate about creating user-friendly interfaces.
 
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin601078&show_icons=true&theme=gruvbox)
